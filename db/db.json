@@ -1,20 +1,4 @@
 {
-  "notesDataArr": [
-    {
-      "title": "hello this is a test2",
-      "text": "whoooooosh2",
-      "id": 12
-    },
-    {
-      "title": "ANOTHER NOTE",
-      "text": "YES\n",
-      "id": 13
-    },
-    {
-      "title": "more notes",
-      "text": "note note note",
-      "id": 14
-    }
-  ],
-  "lastId": 14
+  "notesDataArr": [],
+  "lastId": 16
 }
