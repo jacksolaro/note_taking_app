@@ -5,6 +5,8 @@
 - Github Repo: https://github.com/jacksolaro/note_taking_app
 - Deployed App: https://notetakingappjack.herokuapp.com/
 
+[![Demo](https://github.com/jacksolaro/note_taking_app/blob/main/app_demo.gif?raw=true)
+
 ## DESCRIPTION
 ---------------------
 This application allows a user to write and save notes for future reference.
@@ -26,7 +28,12 @@ To use this repo, you must install node js
 
 ## USAGE
 ------------
-This application is hosted at ________. To use, simply click the button to go to the notes page. On the notes page you can click the note title and note text to fill with info. Then click the save button in the top right to save that note to memory. To edit a note in memory, just select it from the list of notes on the left side of the screen. To delete a note, select the trash icon on the note you would like to delete.
+This application is hosted at https://notetakingappjack.herokuapp.com/. To use:
+1. Click the button to go to the notes page. 
+2. On the notes page you can click the note title and note text to fill with info. 
+3. Then click the save button in the top right to save that note to memory. 
+4. To edit a note in memory, just select it from the list of notes on the left side of the screen. 
+5. To delete a note, select the trash icon on the note you would like to delete.
 
 
 ## TESTS
